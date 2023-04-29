@@ -32,7 +32,7 @@ def check_disappear():
 # -----------------Gui-------------------- #
 
 window = Tk()
-window.iconbitmap("Disappearing Text App/Assets/text.ico")
+window.iconbitmap("./Assets/text.ico")
 window.title("Disappearing Text 5000")
 window.config(pady=20, padx=20)
 
